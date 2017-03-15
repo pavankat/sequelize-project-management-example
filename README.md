@@ -55,7 +55,7 @@ The implemented logic is a simple task tracking tool.
 1. Want to create a migration:
   `sequelize migration:create create-<table name here>`
 
-  edit the migration file
+  edit the migration file in your coding editor
 
   to run the migration file:
     `sequelize db:migrate`
